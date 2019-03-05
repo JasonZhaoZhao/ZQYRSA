@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ZQYRSA"
-  spec.version      = "2.0.0"
+  spec.version      = "4.0.0"
   spec.summary      = "This is ZQYRSA."
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "**", "*"
+  spec.source_files  = "RSAUtil/**", "*"
   # spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
