@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		06A6963E222E67D9002D927B /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 06A6963D222E67D9002D927B /* Info.plist */; };
 		314EDDD21B55008F0003D9F1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 314EDDD11B55008F0003D9F1 /* main.m */; };
 		314EDDD51B55008F0003D9F1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 314EDDD41B55008F0003D9F1 /* AppDelegate.m */; };
 		314EDDD81B55008F0003D9F1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 314EDDD71B55008F0003D9F1 /* ViewController.m */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		06A6963D222E67D9002D927B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		314EDDCC1B55008F0003D9F1 /* RSAUtil.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RSAUtil.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		314EDDD11B55008F0003D9F1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		314EDDD31B55008F0003D9F1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		314EDDCF1B55008F0003D9F1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				06A6963D222E67D9002D927B /* Info.plist */,
 				314EDDD11B55008F0003D9F1 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -139,6 +142,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				06A6963E222E67D9002D927B /* Info.plist in Resources */,
 				314EDDDB1B55008F0003D9F1 /* Main.storyboard in Resources */,
 				314EDDE01B55008F0003D9F1 /* LaunchScreen.xib in Resources */,
 				314EDDDD1B55008F0003D9F1 /* Images.xcassets in Resources */,
