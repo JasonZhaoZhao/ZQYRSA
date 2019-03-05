@@ -7,6 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <UIKit/UIApplication.h>
+#import <UIKit/UIResponder.h>
+#import <UIKit/UIWindow.h>
 
 @class UIApplication;
 @class UIResponder;
