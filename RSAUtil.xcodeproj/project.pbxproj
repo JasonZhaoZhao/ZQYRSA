@@ -18,7 +18,6 @@
 
 /* Begin PBXFileReference section */
 		314EDDCC1B55008F0003D9F1 /* RSAUtil.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RSAUtil.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		314EDDD01B55008F0003D9F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		314EDDD11B55008F0003D9F1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		314EDDD31B55008F0003D9F1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		314EDDD41B55008F0003D9F1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -78,7 +77,6 @@
 		314EDDCF1B55008F0003D9F1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				314EDDD01B55008F0003D9F1 /* Info.plist */,
 				314EDDD11B55008F0003D9F1 /* main.m */,
 			);
 			name = "Supporting Files";

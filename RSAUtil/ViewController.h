@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+@class UIViewController;
+
 @interface ViewController : UIViewController
 
 
